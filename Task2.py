@@ -13,7 +13,7 @@ for i in calls:
     if(i[0] not in dic.keys()):
         dic.update({i[0]:int(i[3])})
     if(i[1] not in dic.keys()):
-        dic.update({i[0]:int(i[3])})
+        dic.update({i[1]:int(i[3])})
     else:
         if(i[0] in dic.keys()):
             dic[i[0]]+=int(i[3])
@@ -30,4 +30,4 @@ Print a message:
 "<telephone number> spent the longest time, <total time> seconds, on the phone during 
 September 2016.".
 """
-
+#changes are made at line 19
