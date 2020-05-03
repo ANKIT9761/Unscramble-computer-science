@@ -1,5 +1,5 @@
 Task 0-In task zero i have simply printed two indexes using slicing principle which takes O(1) time complexity.
 Task 1-In this task i have used 2 for loops so it will take O(n) time complexity
-Task 2-In this task i have used 1 for loop so it will be take O(n) time complexity and i have used built-in function Sorted which has worsst time complexity of nlogn So the time complexity of the program becomes O(nlogn),as O(f(n))+o(g(n))=O(max(f(n),g(n))).
+Task 2-In this task i have used 1 for loop so it will be take O(n) time complexity and i have used built-in function Sorted which is based on sample sort and has worst time complexity of O(nlogn). So the time complexity of the program becomes O(nlogn),as O(f(n))+o(g(n))=O(max(f(n),g(n))).
 Task 3-In this task i have used 1 for loop and sorted function so it will be take O(nlogn) time complexity here
 task 4-In this task i have used 2 for loops and sorted function so it will take O(nlogn) time complexity here
